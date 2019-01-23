@@ -3,7 +3,7 @@
  * \author Hydragon516 <hydragon516@gmail.com>
  * \date 22 January 2019
  *
- * \brief Send and run MIDI signals to Arduino through MIDI communications.
+ * \brief IOT dust sensor using  GP2Y1010AU with sofware calibration.
  *
  * \section License
  * The author has placed this work in the Public Domain, thereby relinquishing
